@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1000178022249",
+    "firebase_url": "https://ta-kotlin.firebaseio.com",
+    "project_id": "ta-kotlin",
+    "storage_bucket": "ta-kotlin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1000178022249:android:d5a87efaf3f76fdb2c6ff8",
+        "android_client_info": {
+          "package_name": "com.example.takotlin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1000178022249-bio5vrob5rsfm937o27v3hcm54ah8nmc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSuJVqQgW1XBmeOlKVjCd8KlALQtOG8CE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1000178022249-bio5vrob5rsfm937o27v3hcm54ah8nmc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

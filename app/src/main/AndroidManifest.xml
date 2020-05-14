@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.takotlin">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/locked"
+        android:label="@string/app_name"
+        android:roundIcon="@drawable/locked"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".ListHistory"></activity>
+        <activity android:name=".HistoryActivity" />
+        <activity android:name=".main" />
+        <activity android:name=".regis" />
+        <activity android:name=".login" />
+        <activity android:name=".splash">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
+    </application>
+
+</manifest>
